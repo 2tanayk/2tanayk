@@ -11,4 +11,6 @@
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanay-kamath-69a65019a)
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: Apart from tech,Im an avid football fan :soccer: and a Potterhead 🧙
+ 
+ ![Tanay's github stats](https://github-readme-stats.vercel.app/api?username=2tanayk&show_icons=true)
 
