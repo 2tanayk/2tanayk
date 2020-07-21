@@ -13,7 +13,8 @@
  - ⚡ Fun fact: Apart from tech,Im an avid football fan :soccer: and a Potterhead 🧙
  
  
- ![Tanay's github stats](https://github-readme-stats.vercel.app/api?username=2tanayk&show_icons=true) [source!](https://github.com/anuraghazra/github-readme-stats
+ ![Tanay's github stats](https://github-readme-stats.vercel.app/api?username=2tanayk&show_icons=true)
+ [source!](https://github.com/anuraghazra/github-readme-stats)
  
  (My git hub stats are awful since I started only some months ago :see_no_evil:) 
 
