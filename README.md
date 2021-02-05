@@ -6,7 +6,7 @@
  - 🔭 I’m currently working on Beatify music app 
  - 🌱 I’m currently learning Android Dev.,Python and bit of CP
  - 👯 I’m looking to collaborate on App Dev.,mainly for hackathons!
- - 🤔 I’m looking for help with learning Python and DS/Algo
+ - 🤔 I’m looking for help with learning DS/Algorithms
  - 🙈 Interested in learning a Backend framework,either Node.js or Django (do help me out here!)
  - 💬 Ask me about anything!
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanay-kamath-69a65019a)
