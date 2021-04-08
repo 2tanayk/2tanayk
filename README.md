@@ -9,7 +9,7 @@
  - 🤔 I’m looking for help with learning DS/Algorithms
  - 🐵 Would like to learn Flutter next
  - 💬 Ask me about anything!
- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanay-kamath-69a65019a) [Twitter](https://twitter.com/tanay_texplorer)
+ - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanay-kamath-69a65019a),[Twitter](https://twitter.com/tanay_texplorer)
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: Apart from tech,Im an avid football fan :soccer: and a Potterhead 🧙
  
