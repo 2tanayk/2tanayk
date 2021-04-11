@@ -3,7 +3,7 @@
 <!--
 **2tanayk/2tanayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- - 🔭 I’m currently working on some making PRs for some open source projects 😎
+ - 🔭 I’m currently working on making some PRs for some open source projects 😎
  - 🌱 I’m currently learning Django and App Dev. with Kotlin
  - 👯 I’m looking to collaborate on App Dev.,mainly for hackathons!
  - 🤔 I’m looking for help with learning DS/Algorithms
