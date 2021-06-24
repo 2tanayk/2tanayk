@@ -3,9 +3,9 @@
 <!--
 **2tanayk/2tanayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- - 🔭 I’m currently working on [AccompanyMe](https://github.com/2tanayk/Travelize-MPR) an Android Dev. project :)
- - 🌱 I’m currently learning Django and App Dev. with Kotlin
- - 👯 I’m looking to collaborate on App Dev.,mainly for hackathons!
+ - 🔭 I’m currently working on [AccompanyMe](https://github.com/2tanayk/Travelize-MPR) and interning at a startup
+ - 🌱 I’m currently learning React.js, React Native and a bit of Django
+ - 👯 I’m looking to collaborate on App Dev.
  - 🤔 I’m looking for help with learning DS/Algorithms
  - 🐵 Would like to learn Flutter next
  - 💬 Ask me about anything!
