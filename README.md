@@ -5,7 +5,7 @@
 -->
  - 🔭 I’m currently working on [SpeechGuild](https://github.com/2tanayk/SpeechGuild)
  - 🌱 I’m currently learning Flutter,Kotlin and Django
- - 👯 I’m looking to collaborate on App Dev
+ - 👯 I’m looking to collaborate on any exciting & innovative projects
  - 🤔 I’m looking for help with learning DS/Algorithms
  - 🐵 Would like to learn Blockchain next!
  - 💬 Ask me about anything!
