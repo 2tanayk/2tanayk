@@ -3,11 +3,11 @@
 <!--
 **2tanayk/2tanayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- - 🔭 I’m currently working on [TSEC App](https://github.com/TSEC-MAD-Club/Mobile-App)
- - 🌱 I’m currently learning Flutter,Kotlin and Django
+ - 🔭 I’m currently working on my DSA/Problem Solving skills
+ - 🌱 I’m currently learning Blockchain
  - 👯 I’m looking to collaborate on any exciting & innovative projects
  - 🤔 I’m looking for help with learning DS/Algorithms
- - 🐵 Would like to learn Blockchain next!
+ - 🐵 Would like to learn ML next!
  - 💬 Ask me about anything!
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanay-kamath-69a65019a),[Twitter](https://twitter.com/tanay_texplorer)
  - 😄 Pronouns: he/him
