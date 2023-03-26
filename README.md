@@ -6,7 +6,7 @@
  - 🔭 I’m currently working on my final year project
  - 🌱 I’m currently exploring whatever interests me!
  - 👯 I’m looking to collaborate on any exciting & innovative projects
- - 🤔 I’m looking for help with ML
+ - 🤔 I’m looking for help with understanding AI/ML
  - 🐵 Would like to learn ML next!
  - 💬 Ask me about anything!
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanay-kamath-69a65019a),[Twitter](https://twitter.com/tanay_texplorer)
@@ -19,3 +19,4 @@
  
   
 
+AI/
