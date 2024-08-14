@@ -3,7 +3,7 @@
 <!--
 **2tanayk/2tanayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- - 🔭 I’m currently working on my final year project
+ - 🔭 I’m currently working full-time as a Software Engineer :)
  - 🌱 I’m currently exploring whatever interests me!
  - 👯 I’m looking to collaborate on any exciting & innovative projects
  - 🤔 I’m looking for help with understanding AI/ML
